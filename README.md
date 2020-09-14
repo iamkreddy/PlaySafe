@@ -1,5 +1,7 @@
 # PlaySafe
 
+##Author Karthik
+
 # Java Developer Expertise Test (60 min)
 
 ## Part 1
@@ -12,7 +14,7 @@
 5. Create a service capable of serving the following endpoints:
 For all of the below endpoints a log entry needs to be created for their execution duration.  
 
-#tHE Rest endpoints
+#The Rest endpoints
    * __/conversions/ktoc__
 The ktoc endpoint should produce an output amount in celsius when given an input amount in kelvin.
 
